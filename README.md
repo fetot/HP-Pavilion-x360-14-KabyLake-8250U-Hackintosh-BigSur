@@ -3,7 +3,9 @@
 Please change the SMBIOS before using this EFI. Use Dortania OpenCore tutorial for that.
 
 HP Pavilion x360 14
+
 macOS BigSur 11.7
+
 OpenCore 0.8.5
 
 Specification:
