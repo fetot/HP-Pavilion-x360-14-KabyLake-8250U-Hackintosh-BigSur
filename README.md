@@ -17,7 +17,7 @@ Specification:
 - 14" 1920x1080p IPS Touchscreen
 - Wireless card: Intel 7265AC (I swapped the Realtek card)
 
-Whats working:
+What's working:
 ------------
 - CPU PowerManagement
 - GPU and Graphics Acceleration
