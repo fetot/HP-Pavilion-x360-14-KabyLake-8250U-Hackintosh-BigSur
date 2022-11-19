@@ -26,7 +26,7 @@ Whats working:
 - WIFI and BT using Airportitlwm
 - Apple Service including Facetime and iMessage
 - All USB Port (2 Type A 3.1, 1 TypeC 3.1)
-- ALl buttons including the side volume
+- All buttons and keyboard shortcut including the side volume
 
 Not working:
 ------------
