@@ -1,4 +1,4 @@
-# HP-x360-14-KabyLake-8250U-Hackintosh-BigSur
+# HP-Pavilion-x360-14-KabyLake-8250U-Hackintosh-BigSur
 
 Please change the SMBIOS before using this EFI. Use Dortania OpenCore tutorial for that.
 
